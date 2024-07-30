@@ -1,1 +1,1 @@
-{"name":"zoox","short_name":"zoox","start_url":"/","display":"standalone","background_color":"#ff0000","lang":"en","scope":"/","description":"zoox","theme_color":"#000000","orientation":"portrait"}
+{"name":"zoox","short_name":"zoox","start_url":"/?standalone=true","display":"standalone","background_color":"#ff0000","lang":"en","scope":"/","description":"zoox","theme_color":"#000000","orientation":"portrait"}
